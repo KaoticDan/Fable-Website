@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env*
+!.env.example
+*.tsbuildinfo
+Event Photos/
+Headshots/
+Logos/
+review/
+AGENTS.md
+CLAUDE.md
+*-review.png
